@@ -1,4 +1,4 @@
-const apikey = 'f1a437f535314af4802d9568572ca976';
+const apikey = '';
 
 const blogContainer = document.getElementById('blog-container');
 
